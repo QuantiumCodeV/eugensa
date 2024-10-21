@@ -1,0 +1,20 @@
+{
+    "components": [
+        {
+            "snapshot": "{\"data\":{\"data\":[{\"id\":3,\"name\":\"52345243\",\"unique_identifier\":\"52354325\",\"price\":\"523452.00\",\"photo\":[{\"60608c7e-cc7b-45d4-9b8f-5cd3fbc32790\":\"01JAMVSJNFEPJP289GS8R6H3JR.png\"},{\"s\":\"arr\"}],\"description\":\"52435\",\"created_at\":\"2024-10-20T11:42:55.000000Z\",\"updated_at\":\"2024-10-20T11:42:55.000000Z\",\"attributes\":[[],{\"s\":\"arr\"}]},{\"s\":\"arr\"}],\"previousUrl\":\"http:\\\/\\\/127.0.0.1:8001\\\/admin\\\/products\",\"mountedActions\":[[],{\"s\":\"arr\"}],\"mountedActionsArguments\":[[],{\"s\":\"arr\"}],\"mountedActionsData\":[[],{\"s\":\"arr\"}],\"defaultAction\":null,\"defaultActionArguments\":null,\"componentFileAttachments\":[[],{\"s\":\"arr\"}],\"mountedFormComponentActions\":[[],{\"s\":\"arr\"}],\"mountedFormComponentActionsArguments\":[[],{\"s\":\"arr\"}],\"mountedFormComponentActionsData\":[[],{\"s\":\"arr\"}],\"mountedFormComponentActionsComponents\":[[],{\"s\":\"arr\"}],\"mountedInfolistActions\":[[],{\"s\":\"arr\"}],\"mountedInfolistActionsData\":[[],{\"s\":\"arr\"}],\"mountedInfolistActionsComponent\":null,\"mountedInfolistActionsInfolist\":null,\"activeRelationManager\":null,\"record\":[null,{\"class\":\"App\\\\Models\\\\Product\",\"key\":3,\"s\":\"mdl\"}],\"savedDataHash\":null},\"memo\":{\"id\":\"7N9KjZNuE2xxveTwcNT0\",\"name\":\"app.filament.resources.product-resource.pages.edit-product\",\"path\":\"admin\\\/products\\\/3\\\/edit\",\"method\":\"GET\",\"children\":[],\"scripts\":[],\"assets\":[],\"errors\":[],\"locale\":\"en\"},\"checksum\":\"31aecea89e86eb2fc8083e287867c64438ea0ad0179dd4a9c0f6661f0ff33659\"}",
+            "effects": {
+                "returns": [
+                    {
+                        "60608c7e-cc7b-45d4-9b8f-5cd3fbc32790": {
+                            "name": "01JAMVSJNFEPJP289GS8R6H3JR.png",
+                            "size": 28300,
+                            "type": "image\/png",
+                            "url": "http:\/\/127.0.0.1:8001\/storage\/01JAMVSJNFEPJP289GS8R6H3JR.png"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "assets": []
+}
