@@ -9,7 +9,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=10,9" />
 
   <title>
-    Paieškos rezultatai  - Internetinė parduotuvė - Schrack Technik International
+    Paieškos rezultatai - Internetinė parduotuvė - Schrack Technik International
   </title>
   </title>
 
@@ -32,153 +32,154 @@
       display: none;
     }
   </style>
-<style>
-  footer {
-	background: #f5f5f5;
-	padding: 35px 0;
-	font-size: 15px;
-	line-height: 24px;
-	color: #464646;
-	margin-top: 20px;
+  <style>
+    footer {
+      background: #f5f5f5;
+      padding: 35px 0;
+      font-size: 15px;
+      line-height: 24px;
+      color: #464646;
+      margin-top: 20px;
 
-	a {
-		color: #464646;
+      a {
+        color: #464646;
 
-		&:hover {
-			color: #464646;
-			text-decoration: underline;
-		}
-	}
+        &:hover {
+          color: #464646;
+          text-decoration: underline;
+        }
+      }
 
-	h2 {
-		font-size: 18px;
-		color: #00589d;
-		font-weight: normal;
-		margin-bottom: 15px;
-	}
+      h2 {
+        font-size: 18px;
+        color: #00589d;
+        font-weight: normal;
+        margin-bottom: 15px;
+      }
 
-	.container {
-		padding: 0 30px;
-	}
+      .container {
+        padding: 0 30px;
+      }
 
-	.bttn-lg {
-		width: 235px;
-	}
+      .bttn-lg {
+        width: 235px;
+      }
 
-	.col2 img {
-		max-height: 75px;
-	}
+      .col2 img {
+        max-height: 75px;
+      }
 
-	header {
-		display: inline;
-	}
-}
+      header {
+        display: inline;
+      }
+    }
 
-//
-//  Responsive
-//  ---------------------------------------------
+    //
+    //  Responsive
+    //  ---------------------------------------------
 
-@media (min-width: $breakpoint-up-md) and (max-width: $breakpoint-down-lg) {
+    @media (min-width: $breakpoint-up-md) and (max-width: $breakpoint-down-lg) {
 
-	footer {
-		padding: 20px 10px;
-		font-size: 13px;
+      footer {
+        padding: 20px 10px;
+        font-size: 13px;
 
-		h2 {
-			font-size: 18px;
-		}
+        h2 {
+          font-size: 18px;
+        }
 
-		.col1 img {
-			width: 35px;
-			vertical-align: -webkit-baseline-middle;
-		}
+        .col1 img {
+          width: 35px;
+          vertical-align: -webkit-baseline-middle;
+        }
 
-		.col2 img {
-			width: 70px;
-		}
+        .col2 img {
+          width: 70px;
+        }
 
-		.col3 img {
-			width: 25px;
-		}
+        .col3 img {
+          width: 25px;
+        }
 
-		.mrgR15min {
-			margin-top: -7px;
-		}
+        .mrgR15min {
+          margin-top: -7px;
+        }
 
-		.mrgLR15min h2 {
-			padding-top: 0px;
-		}
+        .mrgLR15min h2 {
+          padding-top: 0px;
+        }
 
-		.bttn-lg {
-			width: 100%;
-		}
-	}
-}
+        .bttn-lg {
+          width: 100%;
+        }
+      }
+    }
 
-//
-//  Responsive
-//  ---------------------------------------------
+    //
+    //  Responsive
+    //  ---------------------------------------------
 
-@media (min-width: $breakpoint-up-xs) and (max-width: $breakpoint-down-md) {
+    @media (min-width: $breakpoint-up-xs) and (max-width: $breakpoint-down-md) {
 
-	footer {
-		padding: 20px 0px;
-		font-size: 12px;
-		line-height: 24px;
+      footer {
+        padding: 20px 0px;
+        font-size: 12px;
+        line-height: 24px;
 
-		h2 {
-			font-size: 15px;
-		}
+        h2 {
+          font-size: 15px;
+        }
 
-		.container .row {
-			padding: 0;
-			margin: 0;
-		}
+        .container .row {
+          padding: 0;
+          margin: 0;
+        }
 
-		.col1 {
-			margin-left: -5px;
-			padding-left: 0;
-		}
+        .col1 {
+          margin-left: -5px;
+          padding-left: 0;
+        }
 
-		.col3 {
-			margin-right: -5px;
-			padding-right: 0px;
-			padding-left: 0px;
-		}
+        .col3 {
+          margin-right: -5px;
+          padding-right: 0px;
+          padding-left: 0px;
+        }
 
-		.col1 img, .col3 img {
-			width: 30px;
-		}
+        .col1 img,
+        .col3 img {
+          width: 30px;
+        }
 
-		.mrgLR15min {
-			margin-left: -15px;
-			margin-right: -15px;
-			padding-left: 15px;
-			padding-right: 0;
-			margin-top: -15px;
-			margin-bottom: 10px;
-		}
+        .mrgLR15min {
+          margin-left: -15px;
+          margin-right: -15px;
+          padding-left: 15px;
+          padding-right: 0;
+          margin-top: -15px;
+          margin-bottom: 10px;
+        }
 
-		.mrgR15min {
-			margin-right: -15px;
-			margin-top: -7px;
-		}
+        .mrgR15min {
+          margin-right: -15px;
+          margin-top: -7px;
+        }
 
-		.bttn-lg {
-			width: 100%;
-			font-size: 12px;
-		}
-	}
+        .bttn-lg {
+          width: 100%;
+          font-size: 12px;
+        }
+      }
 
-}
+    }
 
-@media (min-width: 290px) and (max-width: 350px) {
-	footer .bttn-lg {
-		font-size: 11px;
-		padding-top: 2px;
-	}
-}
-</style>
+    @media (min-width: 290px) and (max-width: 350px) {
+      footer .bttn-lg {
+        font-size: 11px;
+        padding-top: 2px;
+      }
+    }
+  </style>
   <link
     rel="stylesheet"
     type="text/css"
@@ -4175,12 +4176,9 @@
         <div id="metaDescriptionData" hidden="">buy online at Schrack Technik » Delivery within 24 hours • on-site availability • professional advice • All infos!</div>
         <ul id="breadcrumb_block" property="breadcrumb" class="breadcrumb clearfix">
           <li class="home"><a href="/" title="Go to Home Page" class="clickable_breadcrumb_link">Home</a></li>
-          <li class="category4856042"><a href="/network-technology-server-room-equipment.html" title="" class="clickable_breadcrumb_link">Network technology &amp; Server room equipment</a></li>
-          <li class="category4856146"><a href="/network-technology-server-room-equipment/networking-technology-copper.html" title="" class="clickable_breadcrumb_link">Networking Technology Copper</a></li>
-          <li class="category5104224"><a href="/network-technology-server-room-equipment/networking-technology-copper/s-jack-cat-6a-system-modular.html" title="" class="clickable_breadcrumb_link">S-JACK Cat.6a System Modular</a></li>
-          <li class="category5365089"><a href="/network-technology-server-room-equipment/networking-technology-copper/s-jack-cat-6a-system-modular/datendosen.html" title="" class="clickable_breadcrumb_link">Datendosen</a></li>
-          <li class="category5365092"><a href="/network-technology-server-room-equipment/networking-technology-copper/s-jack-cat-6a-system-modular/datendosen/s-jack-visio-module-insert-uae-design-for-one-or-two-s-jack-modules-without-centralplate-without-cover.html" title="" class="clickable_breadcrumb_link">S-JACK / VISIO Module insert UAE design for one or two S-JACK Modules without Centralplate, without Cover</a></li>
-          <li class="product last"><strong>Module insert empty UAE Design 1/2 S-JACK modules, angled</strong></li>
+          <li class="category4856042"><a href="/" title="" class="clickable_breadcrumb_link">Products</a></li>
+
+          <li class="category4856042"><a href="/" title="" class="clickable_breadcrumb_link">{{ $product->name }}</a></li>
           <ul>
             <!-- app/design/frontend/schrack/schrackresponsive/template/page/html/breadcrumbs.phtml (end) -->
           </ul>
@@ -5390,7 +5388,7 @@
         }
       </style>
 
-     
+
 
       <style>
         .related_headline_container {
