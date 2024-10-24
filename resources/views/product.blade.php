@@ -5022,9 +5022,7 @@
                       <div class="col-md-12 col-sm-12 col-xs-12">
                         <h2 class="detail-description-headline">SCHRACK-Info</h2>
                       </div>
-                      <div class="col-md-12 col-sm-12 col-xs-12 detail-description">
-                        The HSED02UMBV UAE module insert can be fitted with one or two S-JACK modules or two TOOLLESS LINE SFB-modules<br>One module is inserted into the center of the insert.<br>Two modules are inserted side by side.<br>Compatible with all common design-compatible switch programs, such as the SCHRACK VISIO S 55 or SCHRACK VISIO S 50 covers and matching frames in pure white, anthracite, silver and black.<br>Suitable Insulated female Push-on terminal GI5587512-: 6.3mm.<br>Suitable for VISIO S 55 (1 or 2 modules) and VISIO S 50 (2 modules) covers.<br>Suitable for UAE covers SCHRACK VISIO S 55 (1 or 2 modules) and SCHRACK VISIO S 50 (2 modules), as well as for UAE covers from other switch program vendors. </div>
-                    </div>
+                  </div>
                     <div class="row hide-on-print">
                       <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="hr">
@@ -5105,135 +5103,11 @@
                       </table>
                     </div>
 
-                    <div class="row-fine foreign-keywords">
-                      <div class="heading">Foreign Keywords:</div>
-                      <div class="content">
-                        <div class="row">
-                          <div class="col-md-12 col-sm-12 col-xs-12">
-                            Keystone; Keystones; CKVD1DS; Datendose; Leerdose; Moduleinsatz; Tragplatte; Einsatz </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-md-12 col-sm-12 col-xs-12">
-                            Flushmount, centralplate, </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-default print-hide-imp  product_downloads">
-                <div class="panel-heading" role="tab" id="headingTwo">
-                  <h4 class="panel-title">
-                    <a id="accordionDownloads" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      Downloads <span class="glyphicon glyphicon-menu-down pull-right arrow-icon"></span>
-                    </a>
-                  </h4>
-                </div>
-                <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo" aria-expanded="false" style="height: 0px;">
-                  <div class="panel-body">
-
-                    <div id="product-files" class="product-files">
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment1" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 4,51 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment2" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,38 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment3" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,44 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment4" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 4,59 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment5" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 3,63 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment6" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 3,09 MB)</span>
-                        </a>
-                      </div>
                     
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment7" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,27 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment8" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,37 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment9" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,14 MB)</span>
-                        </a>
-                      </div>
-                     
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment10" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 2,99 MB)</span>
-                        </a>
-                      </div>
-                      
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment11" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 3,59 MB)</span>
-                        </a>
-                      </div>
-                      
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="foto foto" id="attachment12" href="javascript: return false" title="Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">jpg , </span> 5,29 MB)</span>
-                        </a>
-                      </div>
-                     
-
-                      <div class="filelinks-single">
-                        <a rel="nofollow" class="onlinedatasheet pdfFileDownload" id="attachment13" href="javascript: return false" title="Online Datasheet: Module insert empty UAE Design 1/2 S-JACK modules, angled">Online Datasheet: Module insert empty UAE Design 1/2 S-JACK modules, angled <span class="filelinks-filetype">(<span class="filelinks-fileext">pdf , </span> 0,00 B)</span>
-                        </a>
-                      </div>
-                      
-                    </div>
-
                   </div>
-
-                  <div id="copy_and_paste_links" style="padding: 15px; display: none; ">
-                    <h2>Copy&amp;Paste Links:</h2>
-                    <a href="/foto/f_hsed02umbv.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbv.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv02.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv02.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv03.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv03.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv04.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv04.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv05.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv05.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv06.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv06.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv07.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv07.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv08.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv08.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv09.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv09.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv10.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv10.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv11.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv11.jpg<br><br>
-                    <a href="/foto/f_hsed02umbvv12.jpg">Photo: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /foto/f_hsed02umbvv12.jpg<br><br>
-                    <a href="/catalog/download/deliverOnlineDataSheet?articlenr=HSED02UMBV&amp;realUser=yes">Online Datasheet: Module insert empty UAE Design 1/2 S-JACK modules, angled</a>: /catalog/download/deliverOnlineDataSheet?articlenr=HSED02UMBV&amp;realUser=yes<br><br>
-                  </div>
-
-                 
-
                 </div>
               </div>
+            
             </div>
             <input type="hidden" id="realUserIdent" val="" value="&amp;realUser=yes">
           </div>
@@ -5371,14 +5245,7 @@
       </style>
 
       <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12 view_accessories product-list-slide">
-          <div class="col-md-9 col-sm-9 col-xs-9 padL0">
-            <h3 class="headline accessories_headline_container">Accessories</h3>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-3 pull-right text-right padR0">
-            <!--a href="#"></a-->
-          </div>
-        </div>
+     
         <div class="inner" id="featureSliderCon">
           <div class="bx-wrapper" style="max-width: 1040px;">
             <div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 325px;">
