@@ -842,7 +842,7 @@
                   </div>
                 </div>
                 <script>
-                  var slider = $('#solr-slider-list-245');
+                  var slider1 = $('#solr-slider-list-245');
                   var prev1 = $('#prev1');
                   var next1 = $('#next1');
                   var itemWidth1 = $('.productSliderList').outerWidth();
