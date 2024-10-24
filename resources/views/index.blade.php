@@ -664,12 +664,14 @@
                   var next = $('#next');
                   var itemWidth = $('.productSliderList').outerWidth();
 
-                  prev.click(function(){
+                  prev.click(function(e){
+                    e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
                     slider.css('left', currentLeft + itemWidth + 'px');
                   });
 
-                  next.click(function(){
+                  next.click(function(e){
+                    e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
                     slider.css('left', currentLeft - itemWidth + 'px');
                   });
