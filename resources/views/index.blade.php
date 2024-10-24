@@ -665,17 +665,29 @@
                   var next = $('#next');
                   var itemWidth = $('.productSliderList').outerWidth();
 
+                  function updatePrevVisibility() {
+                    var currentLeft = parseInt(slider.css('left'));
+                    if (currentLeft < 0) {
+                      prev.removeClass('disabled');
+                    } else {
+                      prev.addClass('disabled');
+                    }
+                  }
+
                   prev.click(function(e){
                     e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
-                    slider.css('left', currentLeft + itemWidth + 'px');
+                    slider.animate({left: currentLeft + itemWidth + 'px'}, 500, updatePrevVisibility);
                   });
 
                   next.click(function(e){
                     e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
-                    slider.css('left', currentLeft - itemWidth + 'px');
+                    slider.animate({left: currentLeft - itemWidth + 'px'}, 500, updatePrevVisibility);
                   });
+
+                  // Инициализация видимости кнопки prev при загрузке страницы
+                  updatePrevVisibility();
 
                 </script>
               </div>
