@@ -26,5 +26,5 @@ Route::get('/product/{id}', [ProductSearchController::class, 'product'])->name('
 
 Route::post('/product/{id}', function ($id) {
     $product = Product::find($id);
-    return $product;
+    return response()->json($product);
 });
