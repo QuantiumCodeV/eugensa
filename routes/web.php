@@ -22,5 +22,5 @@ Route::get('/', function () {
 
 Route::get('/search/results', [ProductSearchController::class, 'results'])->name('search.results');
 Route::get('/search/load-more', [ProductSearchController::class, 'loadMore'])->name('products.loadMore');
-Route::get('/product/{id}', [ProductSearchController::class, 'product'])->name('product');
+Route::get('/product', [ProductSearchController::class, 'product'])->name('product');
 
