@@ -24,7 +24,3 @@ Route::get('/search/results', [ProductSearchController::class, 'results'])->name
 Route::get('/search/load-more', [ProductSearchController::class, 'loadMore'])->name('products.loadMore');
 Route::get('/product/{id}', [ProductSearchController::class, 'product'])->name('product');
 
-Route::post('/addproductdsproduct/{id}', function ($id) {
-    $product = Product::find($id);
-    return response()->json($product);
-});
