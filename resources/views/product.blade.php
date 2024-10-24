@@ -4991,7 +4991,7 @@
                       <li><a href="/customer/account/login/referer/aHR0cHM6Ly93d3cuc2NocmFjay5jb20vc2hvcC9uZXR3b3JrLXRlY2hub2xvZ3ktc2VydmVyLXJvb20tZXF1aXBtZW50L25ldHdvcmtpbmctdGVjaG5vbG9neS1jb3BwZXIvcy1qYWNrLWNhdC02YS1zeXN0ZW0tbW9kdWxhci9kYXRlbmRvc2VuL3MtamFjay12aXNpby1tb2R1bGUtaW5zZXJ0LXVhZS1kZXNpZ24tZm9yLW9uZS1vci10d28tcy1qYWNrLW1vZHVsZXMtd2l0aG91dC1jZW50cmFscGxhdGUtd2l0aG91dC1jb3Zlci9tb2R1bGUtaW5zZXJ0LWVtcHR5LWZvci0xLW8uaHRtbA,,/" title="Login">Please login first!</a></li>
                     </ul>
                   </li>
-                  <li class="project-price"><a id="project-price" href="https://www.schrack.com/onlinecontact/?article=Request+project+price+for+article+HSED02UMBV" rel="nofollow" target="_blank"><img src="/skin/frontend/schrack/default/schrackdesign/Public/Images/rwd/project-price.png" class="loaded" data-was-processed="true"><span>Request project price</span></a></li>
+                  <li class="project-price"><a id="project-price" href="" rel="nofollow" target="_blank"><img src="/skin/frontend/schrack/default/schrackdesign/Public/Images/rwd/project-price.png" class="loaded" data-was-processed="true"><span>Request project price</span></a></li>
                 </ul>
                
                 <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\moreactions.phtml (end) -->

@@ -82,7 +82,6 @@ class ProductSearchController extends Controller
 
     public function product($id)
     {
-
         return view('product');
     }
 }
