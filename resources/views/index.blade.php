@@ -845,12 +845,12 @@
                   var slider1 = $('#solr-slider-list-245');
                   var prev1 = $('#prev1');
                   var next1 = $('#next1');
-                  var itemWidth1 = $('.productSliderList').outerWidth();
+                  var itemWidth1 = $('#solr-slider-list-245 .productSliderList').outerWidth();
                   var itemCount1 = $('#solr-slider-list-245 .productSliderList').length;
-                  var maxScroll1 = -(itemWidth * (itemCount - 5)); // 5 - количество видимых элементов
+                  var maxScroll1 = -(itemWidth1 * (itemCount1 - 5)); // 5 - количество видимых элементов
 
                   function updateButtonsVisibility1() {
-                    var currentLeft1 = parseInt(slider.css('left'));
+                    var currentLeft1 = parseInt(slider1.css('left'));
                     if (currentLeft1 < 0) {
                       prev1.removeClass('disabled');
                     } else {
@@ -865,14 +865,14 @@
 
                   prev1.click(function(e){
                     e.preventDefault();
-                    var currentLeft1 = parseInt(slider.css('left'));
+                    var currentLeft1 = parseInt(slider1.css('left'));
                     var newLeft1 = Math.min(currentLeft1 + itemWidth1, 0);
                     slider1.animate({left: newLeft1 + 'px'}, 500, updateButtonsVisibility1);
                   });
 
                   next1.click(function(e){
                     e.preventDefault();
-                    var currentLeft1 = parseInt(slider.css('left'));
+                    var currentLeft1 = parseInt(slider1.css('left'));
                     var newLeft1 = Math.max(currentLeft1 - itemWidth1, maxScroll1);
                     slider1.animate({left: newLeft1 + 'px'}, 500, updateButtonsVisibility1);
                   });
