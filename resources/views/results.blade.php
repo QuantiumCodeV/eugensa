@@ -9,7 +9,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=10,9" />
 
   <title>
-    Search results for '{{ $query}}' - Online Shop - Schrack Technik International
+    Paieškos rezultatai '{{ $query}}' - Internetinė parduotuvė - Schrack Technik International
+  </title>
   </title>
 
   <link
@@ -1378,7 +1379,7 @@
               <a
                 id="startpage"
                 href="/"
-                title="Schrack Technik Online Shop">
+                title="Schrack Technik internetinė parduotuvė">
                 <img
                   id="page_layer_logo_default_image"
                   src="{{asset('assets/image.png')}}"
@@ -1392,7 +1393,7 @@
           </div>
           <div
             class="col-xs-6 col-sm-6 col-md-7 header_menu_links_container_right print-hide">
-            <!-- app/design/frontend/schrack/schrackresponsive/template/page/template/links.phtml (start) -->
+            <!-- app/design/frontend/schrack/schrackresponsive/template/page/template/links.phtml (pradžia) -->
 
             <style>
               #advisor_telephone_symbol {
@@ -1588,7 +1589,7 @@
     <div class="top-navigation-container">
       <div class="top-navigation-wrapper">
         <div class="navbar navbar-megamenu" role="navigation">
-          <!-- Mega Menu Container (start) -->
+          <!-- Mega Menu Container (pradžia) -->
           <div class="mainNav bottom-header" id="mainNav">
             <div id="navigationEnvelope" class="navigation_envelope">
 
@@ -1604,7 +1605,7 @@
                   class="backfiller_left"
                   style="background: #d2d2d2"></div>
                 <nav class="top_navigation_item top_navigation_item_first">
-                  <span class="top_navigation_item_text">Shop</span>
+                  <span class="top_navigation_item_text">Parduotuvė</span>
                 </nav>
               </div>
 
@@ -1616,7 +1617,7 @@
                 data-target="layer_2">
                 <nav
                   class="top_navigation_item top_navigation_item_alternate typo_type">
-                  <span class="top_navigation_item_text">Know How</span>
+                  <span class="top_navigation_item_text">Žinios</span>
                 </nav>
               </div>
               <div
@@ -1625,7 +1626,7 @@
                 data-target="layer_3">
                 <nav
                   class="top_navigation_item top_navigation_item_alternate typo_type">
-                  <span class="top_navigation_item_text">Tools</span>
+                  <span class="top_navigation_item_text">Įrankiai</span>
                 </nav>
               </div>
               <a
@@ -1639,7 +1640,7 @@
                       class="top_navigation_item top_navigation_item_alternate typo_type"
                     >
                       <span class="top_navigation_item_text" style="color: red"
-                        >SALE %</span
+                        >IŠPARDAVIMAS %</span
                       >
                     </nav>
                   </div></a
@@ -1657,13 +1658,13 @@
                   <nav
                     class="top_navigation_item top_navigation_item_alternate top_navigation_item_quickadd"
                   >
-                    <span class="top_navigation_item_text">Quick-Add</span>
+                    <span class="top_navigation_item_text">Greitas pridėjimas</span>
                   </nav>
                 </div>
               </div>
-              <!-- Content fetched by AJAX (header.phtml -> MenuController.php) -->
+              <!-- Turinys gaunamas per AJAX (header.phtml -> MenuController.php) -->
             </div>
-            <!-- Mega Menu Container (end) -->
+            <!-- Mega Menu Container (pabaiga) -->
           </div>
         </div>
       </div>
@@ -3184,11 +3185,11 @@
             class="sandwichMenuQuadrant print-hide hamburgerMenuAlternate"
           >
             <button id="hamburgerMenuAlternateButton" type="button">
-              <span class="sr-only">Toggle navigation</span>
+              <span class="sr-only">Perjungti navigaciją</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
-              <span id="megaMenuCaptionTxt">Menu</span>
+              <span id="megaMenuCaptionTxt">Meniu</span>
             </button>
           </div>
           <div
@@ -3222,121 +3223,119 @@
                     aria-haspopup="true"
                     aria-expanded="false"
                   >
-                    All categories
+                    Visos kategorijos
                   </button>
                   <ul class="dropdown-menu" id="searchDropdownBox" name="cat">
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="All categories"
+                      value="Visos kategorijos"
                       catid=""
                     >
-                      All
+                      Visos
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Enclosures &amp; distribution boards"
+                      value="Korpusai ir skirstymo skydai"
                       catid="4853939"
                     >
-                      Enclosures &amp; distribution boards
+                      Korpusai ir skirstymo skydai
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Distribution board equipment (MCB, RCCB, SPD, MCCB, Terminals, Fuse Material)"
+                      value="Skirstymo skydo įranga (MCB, RCCB, SPD, MCCB, Gnybtai, Saugiklių medžiagos)"
                       catid="4854509"
                     >
-                      Distribution board equipment (MCB, RCCB, SPD, MCCB,
-                      Terminals, Fuse Material)
+                      Skirstymo skydo įranga (MCB, RCCB, SPD, MCCB, Gnybtai, Saugiklių medžiagos)
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Control technology"
+                      value="Valdymo technologija"
                       catid="4855089"
                     >
-                      Control technology
+                      Valdymo technologija
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Building technology, KNX &amp; Intercoms"
+                      value="Pastatų technologija, KNX ir vidaus ryšio sistemos"
                       catid="4855595"
                     >
-                      Building technology, KNX &amp; Intercoms
+                      Pastatų technologija, KNX ir vidaus ryšio sistemos
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Emergency lighting, UPS, CO &amp; Reactive power compensation"
+                      value="Avarinis apšvietimas, UPS, CO ir reaktyviosios galios kompensavimas"
                       catid="4855931"
                     >
-                      Emergency lighting, UPS, CO &amp; Reactive power
-                      compensation
+                      Avarinis apšvietimas, UPS, CO ir reaktyviosios galios kompensavimas
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Network technology &amp; Server room equipment"
+                      value="Tinklo technologija ir serverių patalpos įranga"
                       catid="4856042"
                     >
-                      Network technology &amp; Server room equipment
+                      Tinklo technologija ir serverių patalpos įranga
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Installation &amp; mounting"
+                      value="Montavimas ir instaliacija"
                       catid="4856815"
                     >
-                      Installation &amp; mounting
+                      Montavimas ir instaliacija
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Cables &amp; wires"
+                      value="Kabeliai ir laidai"
                       catid="4856964"
                     >
-                      Cables &amp; wires
+                      Kabeliai ir laidai
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Lighting technology"
+                      value="Apšvietimo technologija"
                       catid="5365724"
                     >
-                      Lighting technology
+                      Apšvietimo technologija
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Photovoltaics &amp; storage"
+                      value="Fotovoltinės sistemos ir saugojimas"
                       catid="4860149"
                     >
-                      Photovoltaics &amp; storage
+                      Fotovoltinės sistemos ir saugojimas
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Electromobility"
+                      value="Elektromobilumas"
                       catid="4860181"
                     >
-                      Electromobility
+                      Elektromobilumas
                     </li>
                     <li
                       class="dropdown-item"
                       onclick="assignCurrCat(this)"
-                      value="Catalogues"
+                      value="Katalogai"
                       catid="4860184"
                     >
-                      Catalogues
+                      Katalogai
                     </li>
                   </ul>
                 </div>
                 <input
                   id="search"
                   type="text"
-                  placeholder="Search in: All categories"
+                  placeholder="Ieškoti: Visos kategorijos"
                   name="q"
                   value=""
                   class="form-control nodefault"
@@ -3372,7 +3371,7 @@
             data-toggle="modal"
             data-target="#quickaddpopup"
           >
-            Quick Add +
+            Greitas pridėjimas +
           </button>
         </div><script type="text/javascript">
     var searchInput = document.getElementById('search');
@@ -3396,7 +3395,7 @@
           class="quick_add_button_alternate_container"
         >
           <div id="quick_add_button_alternate" class="btn-quickAdd">
-            Quick Add
+            Greitas pridėjimas
             <span id="quick_add_button_alternate_arrow">
               <i
                 id="quick_add_button_alternate_arrow_trigger"
@@ -3428,7 +3427,7 @@
                 >
                   <span aria-hidden="true">×</span>
                 </button>
-                <h4 class="modal-title" id="myModalLabel2">Scan</h4>
+                <h4 class="modal-title" id="myModalLabel2">Nuskaityti</h4>
               </div>
               <div class="modal-body">
                 <div id="scandit-barcode-picker" class="scanner"></div>
@@ -3441,7 +3440,7 @@
                   id="close_scanner_popup_right_lower_corner"
                   class="btn btn-secondary"
                 >
-                  Close
+                  Uždaryti
                 </button>
               </div>
             </div>
@@ -3470,7 +3469,7 @@
                   <span aria-hidden="true">×</span>
                 </button>
                 <h4 id="modal-label-headline-alternate" class="modal-title">
-                  Quick Add
+                  Greitas pridėjimas
                 </h4>
               </div>
               <hr style="margin-top: 0" />
@@ -3494,7 +3493,7 @@
               type="button"
               class="btn btn-secondary close_quickadd_popup_alternate"
             >
-              Close
+              Uždaryti
             </button>
           </div>
         </div>
@@ -3742,8 +3741,7 @@
           </style>
 
           <div id="metaDescriptionData" hidden="">
-            buy online at Schrack Technik » Delivery within 24 hours • on-site
-            availability • professional advice • All infos!
+            pirkite internetu Schrack Technik » Pristatymas per 24 valandas • galimybė atsiimti vietoje • profesionalus patarimas • Visa informacija!
           </div>
           <ul
             id="breadcrumb_block"
@@ -3753,13 +3751,13 @@
             <li class="home">
               <a
                 href="#"
-                title="Go to Home Page"
+                title="Eiti į pagrindinį puslapį"
                 class="clickable_breadcrumb_link"
-                >Home</a
+                >Pagrindinis</a
               >
             </li>
             <li class="search last">
-              <strong>Search results for '{{ $query}}'</strong>
+              <strong>Paieškos rezultatai '{{ $query}}'</strong>
             </li>
             <ul></ul>
           </ul>
@@ -5392,7 +5390,7 @@
                       role="tab"
                       data-toggle="tab"
                     >
-                      Products ({{ $products->count() }})
+                      Produktai ({{ $products->count() }})
                     </a>
                   </li>
                   <li
@@ -5406,7 +5404,7 @@
                       data-toggle="tab"
                       onclick="jQuery(&#39;#activeproductcontainer&#39;).val(&#39;prodListingSales&#39;);"
                     >
-                      Products on Sale (0)
+                      Išpardavimo produktai (0)
                     </a>
                   </li>
                   
@@ -5442,7 +5440,7 @@
                                   onclick="toggleFilterState = &#39;topFilter&#39;;"
                                   id="topFilterBtn"
                                 >
-                                  Filter
+                                  Filtras
                                 </a>
                               </li>
                               <li
@@ -5458,7 +5456,7 @@
                                   onclick="toggleFilterState = &#39;moreFilter&#39;;"
                                   id="moreFilterBtn"
                                 >
-                                  More Filters
+                                  Daugiau filtrų
                                 </a>
                               </li>
                             </ul>
@@ -5473,7 +5471,7 @@
                                   class="btn btn-default marginTB10 marginL15 hide"
                                   onclick="clearSearchFilter()"
                                 >
-                                  Clear Filters
+                                  Išvalyti filtrus
                                 </button>
                                 <div
                                   class="panel-group"
@@ -5501,7 +5499,7 @@
                                         <div class="panel-body">
                                           <a href="#" onclick="performFilterSearchAjax(this, 'showall'); return false;" class="filter-deselect hide" style="font-size: 0.9em; color: #174573;">
                                             <i style="font-size: 1em; position: absolute; margin-top: 5px;" class="fa fa-eject fa-lg"></i>
-                                            <span style="margin-left: 19px">Отменить выбор</span>
+                                            <span style="margin-left: 19px">Atšaukti pasirinkimą</span>
                                           </a>
                                           <ul>
                                            
@@ -5574,17 +5572,17 @@
                           <div
                             class="col-xs-12 col-sm-6 text-right pull-right print-hide-imp"
                           >
-                            Sort by:
+                            Rūšiuoti pagal:
                             <select
                               name="sort"
                               id="sort"
                               onchange="sortBySearch(this.value)"
                             >
                               <option value="ranking" selected="selected">
-                                Best Sellers
+                                Perkamiausias
                               </option>
-                              <option value="score">Best Match</option>
-                              <option value="name">Alphabetical</option>
+                              <option value="score">Geriausias atitikmuo</option>
+                              <option value="name">Abėcėlės tvarka</option>
                             </select>
 
                             <a id="grid_button" class="gridViewBttn blueTxt"
@@ -5600,7 +5598,7 @@
                             ></a>
                           </div>
                           <div class="col-xs-12 col-sm-6">
-                            <h3 class="search">Products for: '{{$query}}'</h3>
+                            <h3 class="search">Produktai pagal: '{{$query}}'</h3>
                           </div>
                         </div>
                       </div>
@@ -5730,11 +5728,11 @@
                                   <span class="logistic-icon"></span
                                   ><span class="logstics-icon-text"
                                     ><span class="nds-time sucubus"
-                                      >in 1 day</span
+                                      >per 1 dieną</span
                                     >
-                                    <span class="nds-qty">{{ random_int(100, 1000) }} pc</span>
+                                    <span class="nds-qty">{{ random_int(100, 1000) }} vnt</span>
                                     <span class="nds-delivery"
-                                      >deliverable</span
+                                      >pristatoma</span
                                     >
                                   </span>
                                 </div>
@@ -5744,9 +5742,9 @@
                                 <div class="cartInfoHide pickup-icon-text-row">
                                   <span class="store-icon-new"></span
                                   ><span class="formatted-pickup-qty-sum"
-                                    >0 pc
+                                    >0 vnt
                                     <span class="pickup-sum-stores-txt"
-                                      >Σ all stores</span
+                                      >Σ visos parduotuvės</span
                                     ></span
                                   >
                                 </div>
@@ -5764,14 +5762,14 @@
                                   >
                                     <ul>
                                       <li class="hd">
-                                        Ready For Shipment<span></span>
+                                        Paruošta siuntimui<span></span>
                                       </li>
                                       <li>
-                                        <span class="nds-time">in 1 day :</span
-                                        ><span class="nds-qty">984 pc</span>
+                                        <span class="nds-time">per 1 dieną :</span
+                                        ><span class="nds-qty">984 vnt</span>
                                       </li>
                                       <li class="info_button_pickup_info hd">
-                                        Ready For Pickup<span></span>
+                                        Paruošta atsiėmimui<span></span>
                                       </li>
                                     </ul>
                                   </div>
@@ -5895,57 +5893,57 @@
                   <li>
                     <a
                       href="#"
-                      title="Company"
-                      >Company</a
+                      title="Įmonė"
+                      >Įmonė</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="Schrack Technik Group"
-                      >Schrack Technik Group</a
+                      title="Schrack Technik grupė"
+                      >Schrack Technik grupė</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="Contact"
-                      >Contact</a
+                      title="Kontaktai"
+                      >Kontaktai</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="Worldwide"
-                      >Worldwide</a
+                      title="Visame pasaulyje"
+                      >Visame pasaulyje</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="General Terms and Conditions"
-                      >General Terms and Conditions</a
+                      title="Bendrosios sąlygos"
+                      >Bendrosios sąlygos</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="Data Protection"
-                      >Data Protection</a
+                      title="Duomenų apsauga"
+                      >Duomenų apsauga</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="General Terms of Use"
-                      >General Terms of Use</a
+                      title="Bendrosios naudojimo sąlygos"
+                      >Bendrosios naudojimo sąlygos</a
                     >
                   </li>
                   <li>
                     <a
                       href="#"
-                      title="Editorial"
-                      >Editorial</a
+                      title="Redakcija"
+                      >Redakcija</a
                     >
                   </li>
                   <li>
@@ -5953,7 +5951,7 @@
                       href="#"
                       onclick="UC_UI.showSecondLayer(); return false;"
                       role="button"
-                      >Cookie settings</a
+                      >Slapukų nustatymai</a
                     >
                   </li>
                 </ul>
@@ -5968,11 +5966,11 @@
                   <div>
                     <div>
                       <h2 class="headline b1">
-                        Your advantages
+                        Jūsų privalumai
                         <a
                           class="anchor-link"
                           href="#"
-                          aria-label="Anchor for Your advantages"
+                          aria-label="Inkaras Jūsų privalumams"
                         ></a>
                       </h2>
                     </div>
@@ -5980,10 +5978,10 @@
                 </header>
 
                 <ul class="rte-ul">
-                  <li>Extensive advisory service</li>
-                  <li>Immediate delivery</li>
-                  <li>Safe payment</li>
-                  <li>Protection of personal data</li>
+                  <li>Išsami konsultavimo paslauga</li>
+                  <li>Greitas pristatymas</li>
+                  <li>Saugus mokėjimas</li>
+                  <li>Asmens duomenų apsauga</li>
                 </ul>
               </div>
             </div>
@@ -5996,11 +5994,11 @@
                   <div>
                     <div>
                       <h2 class="headline b1">
-                        Get the Schrack Newsletter now!
+                        Gaukite Schrack naujienlaiškį dabar!
                         <a
                           class="anchor-link"
                           href="#"
-                          aria-label="Anchor for Get the Schrack Newsletter now!"
+                          aria-label="Inkaras Gaukite Schrack naujienlaiškį dabar!"
                         ></a>
                       </h2>
                     </div>
@@ -6008,15 +6006,15 @@
                 </header>
 
                 <p class="bodytext">
-                  Stay informed - subscribe to our newsletter now and never
-                  again miss our latest discounts and promos
+                  Būkite informuoti - užsiprenumeruokite mūsų naujienlaiškį dabar ir niekada
+                  nepraleisite mūsų naujausių nuolaidų ir akcijų
                 </p>
                 <p class="bodytext">
                   <a
                     href="#"
                     class="button-small"
-                    title="Just register here and take all actual information from SCHRACK Technik"
-                    >SUBSCRIBE HERE<br
+                    title="Tiesiog užsiregistruokite čia ir gaukite visą aktualią informaciją iš SCHRACK Technik"
+                    >UŽSIPRENUMERUOKITE ČIA<br
                   /></a>
                 </p>
               </div>
