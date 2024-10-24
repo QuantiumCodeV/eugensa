@@ -9,7 +9,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=10,9" />
 
   <title>
-    Paieškos rezultatai '{{ $query}}' - Internetinė parduotuvė - Schrack Technik International
+    Paieškos rezultatai  - Internetinė parduotuvė - Schrack Technik International
   </title>
   </title>
 
@@ -1617,7 +1617,7 @@
                 data-target="layer_2">
                 <nav
                   class="top_navigation_item top_navigation_item_alternate typo_type">
-                  <span class="top_navigation_item_text">Žinios</span>
+                  <span class="top_navigation_item_text">Naujienos</span>
                 </nav>
               </div>
               <div
@@ -4165,7 +4165,7 @@
             color: #fff;
           }
 
-          @media (min-width: 60px) and (max-width: 320px)  {
+          @media (min-width: 60px) and (max-width: 320px) {
             ul.product-list-slide-list li span {
               font-size: 10px;
             }
@@ -4334,7 +4334,7 @@
             }
         </style>
 
-   
+
         <!-- Collecting Google SEO Data (start) -->
 
         <div>
@@ -4969,33 +4969,33 @@
                           <div class=" add-cart-btn">
                             <button class="addToCartTracking cart-btn add-cart-btn" id="buyNowButton" type="button" title="Buy now" data-tracking-enabled="enabled" data-brand="" data-click="" data-event="addToCart" data-id="HSED02UMBV" data-sku="HSED02UMBV" data-name="Module insert empty UAE Design 1/2 S-JACK modules, angled" data-category="87-02-263_18-02-04" data-price="1.95" <span=""><span>Buy now</span>
                             </button
+                              </div>
                           </div>
                         </div>
-                      </div>
-                      <div class="addtocart print-only">
-                        <span class="price onrequest">On Request</span>
-                      </div>
-                      <input type="hidden" id="cut_off_time_stopper" value="">
+                        <div class="addtocart print-only">
+                          <span class="price onrequest">On Request</span>
+                        </div>
+                        <input type="hidden" id="cut_off_time_stopper" value="">
 
-                <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\addtocart.phtml (end) -->
+                        <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\addtocart.phtml (end) -->
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="col-md-2 col-sm-12 col-xs-12 other-actions">
-                <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\moreactions.phtml (start) -->
-                <h4>Other Actions</h4>
-                <ul class="product-info-links hide-on-print">
-                  <li class="partlist-label-container"><a href="#" id="parlistdropdownbtn-HSED02UMBV" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" class="lgtGray" onclick="return false;"><span class="glyphicon glyphicon-pushpin pin-icon"></span><span>Add to parts list</span></a>
-                    <ul class="dropdown-list dropdown-menu withoutLgn" aria-labelledby="parlistdropdownbtn-HSED02UMBV">
-                      <li><a href="/customer/account/login/referer/aHR0cHM6Ly93d3cuc2NocmFjay5jb20vc2hvcC9uZXR3b3JrLXRlY2hub2xvZ3ktc2VydmVyLXJvb20tZXF1aXBtZW50L25ldHdvcmtpbmctdGVjaG5vbG9neS1jb3BwZXIvcy1qYWNrLWNhdC02YS1zeXN0ZW0tbW9kdWxhci9kYXRlbmRvc2VuL3MtamFjay12aXNpby1tb2R1bGUtaW5zZXJ0LXVhZS1kZXNpZ24tZm9yLW9uZS1vci10d28tcy1qYWNrLW1vZHVsZXMtd2l0aG91dC1jZW50cmFscGxhdGUtd2l0aG91dC1jb3Zlci9tb2R1bGUtaW5zZXJ0LWVtcHR5LWZvci0xLW8uaHRtbA,,/" title="Login">Please login first!</a></li>
-                    </ul>
-                  </li>
-                  <li class="project-price"><a id="project-price" href="" rel="nofollow" target="_blank"><img src="/skin/frontend/schrack/default/schrackdesign/Public/Images/rwd/project-price.png" class="loaded" data-was-processed="true"><span>Request project price</span></a></li>
-                </ul>
-               
-                <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\moreactions.phtml (end) -->
-              </div>
+                <div class="col-md-2 col-sm-12 col-xs-12 other-actions">
+                  <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\moreactions.phtml (start) -->
+                  <h4>Other Actions</h4>
+                  <ul class="product-info-links hide-on-print">
+                    <li class="partlist-label-container"><a href="#" id="parlistdropdownbtn-HSED02UMBV" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" class="lgtGray" onclick="return false;"><span class="glyphicon glyphicon-pushpin pin-icon"></span><span>Add to parts list</span></a>
+                      <ul class="dropdown-list dropdown-menu withoutLgn" aria-labelledby="parlistdropdownbtn-HSED02UMBV">
+                        <li><a href="/customer/account/login/referer/aHR0cHM6Ly93d3cuc2NocmFjay5jb20vc2hvcC9uZXR3b3JrLXRlY2hub2xvZ3ktc2VydmVyLXJvb20tZXF1aXBtZW50L25ldHdvcmtpbmctdGVjaG5vbG9neS1jb3BwZXIvcy1qYWNrLWNhdC02YS1zeXN0ZW0tbW9kdWxhci9kYXRlbmRvc2VuL3MtamFjay12aXNpby1tb2R1bGUtaW5zZXJ0LXVhZS1kZXNpZ24tZm9yLW9uZS1vci10d28tcy1qYWNrLW1vZHVsZXMtd2l0aG91dC1jZW50cmFscGxhdGUtd2l0aG91dC1jb3Zlci9tb2R1bGUtaW5zZXJ0LWVtcHR5LWZvci0xLW8uaHRtbA,,/" title="Login">Please login first!</a></li>
+                      </ul>
+                    </li>
+                    <li class="project-price"><a id="project-price" href="" rel="nofollow" target="_blank"><img src="/skin/frontend/schrack/default/schrackdesign/Public/Images/rwd/project-price.png" class="loaded" data-was-processed="true"><span>Request project price</span></a></li>
+                  </ul>
+
+                  <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\moreactions.phtml (end) -->
+                </div>
             </form>
           </div>
 
@@ -5022,7 +5022,7 @@
                       <div class="col-md-12 col-sm-12 col-xs-12">
                         <h2 class="detail-description-headline">SCHRACK-Info</h2>
                       </div>
-                  </div>
+                    </div>
                     <div class="row hide-on-print">
                       <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="hr">
@@ -5103,16 +5103,16 @@
                       </table>
                     </div>
 
-                    
+
                   </div>
                 </div>
               </div>
-            
+
             </div>
             <input type="hidden" id="realUserIdent" val="" value="&amp;realUser=yes">
           </div>
 
-         
+
           <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\attributes.phtml (end) -->
         </div>
       </div>
@@ -5245,7 +5245,7 @@
       </style>
 
       <div class="row">
-     
+
         <div class="inner" id="featureSliderCon">
           <div class="bx-wrapper" style="max-width: 1040px;">
             <div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 325px;">
@@ -6008,7 +6008,7 @@
       </div>
 
 
-    
+
       <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\accessories.phtml (end) -->
       <!-- View Accessories -->
       <!-- View Family Products Slider start -->
@@ -6017,7 +6017,7 @@
 
 
 
-    
+
       <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\family.phtml (end) -->
       <!-- View Family Products Slider end -->
       <!-- Related Products -->
@@ -6375,7 +6375,7 @@
 
 
 
-    
+
       <!-- app\design\frontend\schrack\schrackresponsive\template\catalog\product\view\related.phtml (end) -->
       <!-- Releated Products -->
       <!-- Next Previous -->

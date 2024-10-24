@@ -1617,7 +1617,7 @@
                 data-target="layer_2">
                 <nav
                   class="top_navigation_item top_navigation_item_alternate typo_type">
-                  <span class="top_navigation_item_text">Žinios</span>
+                  <span class="top_navigation_item_text">Naujienos</span>
                 </nav>
               </div>
               <div
