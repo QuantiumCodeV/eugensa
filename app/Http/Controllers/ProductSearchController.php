@@ -78,4 +78,10 @@ class ProductSearchController extends Controller
 
     return response()->json($products);
 }
+
+    public function product($id)
+    {
+        $product = Product::find($id);
+        return view('product', compact('product'));
+    }
 }
