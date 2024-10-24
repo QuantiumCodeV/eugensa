@@ -653,11 +653,28 @@
                 </div>
                 <div class="bx-controls bx-has-controls-direction">
                   <div class="bx-controls-direction">
-                    <a class="bx-prev disabled" href="#"
+                    <a class="bx-prev disabled" href="#" id="prev"
                       >Ankstesnis</a
-                    ><a class="bx-next" href="#">Kitas</a>
+                    ><a class="bx-next" href="#" id="next">Kitas</a>
                   </div>
                 </div>
+                <script>
+                  var slider = $('#solr-slider-list-529');
+                  var prev = $('#prev');
+                  var next = $('#next');
+                  var itemWidth = $('.productSliderList').outerWidth();
+
+                  prev.click(function(){
+                    var currentLeft = parseInt(slider.css('left'));
+                    slider.css('left', currentLeft + itemWidth + 'px');
+                  });
+
+                  next.click(function(){
+                    var currentLeft = parseInt(slider.css('left'));
+                    slider.css('left', currentLeft - itemWidth + 'px');
+                  });
+
+                </script>
               </div>
              
             </section>
