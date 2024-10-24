@@ -667,7 +667,7 @@
 
                   function updatePrevVisibility() {
                     var currentLeft = parseInt(slider.css('left'));
-                    if (currentLeft < 0) {
+                    if (currentLeft > 0) {
                       prev.removeClass('disabled');
                     } else {
                       prev.addClass('disabled');
