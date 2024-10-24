@@ -4968,7 +4968,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12 hide-on-print">
                           <div class=" add-cart-btn">
                             <button class="addToCartTracking cart-btn add-cart-btn" id="buyNowButton" type="button" title="Buy now" data-tracking-enabled="enabled" data-brand="" data-click="" data-event="addToCart" data-id="HSED02UMBV" data-sku="HSED02UMBV" data-name="Module insert empty UAE Design 1/2 S-JACK modules, angled" data-category="87-02-263_18-02-04" data-price="1.95" <span=""><span>Buy now</span>
-                            </button>
+                            </button
                           </div>
                         </div>
                       </div>
