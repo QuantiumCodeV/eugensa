@@ -23,3 +23,8 @@ Route::get('/', function () {
 Route::get('/search/results', [ProductSearchController::class, 'results'])->name('search.results');
 Route::get('/search/load-more', [ProductSearchController::class, 'loadMore'])->name('products.loadMore');
 Route::get('/product/{id}', [ProductSearchController::class, 'product'])->name('product');
+
+Route::post('/product/{id}', function ($id) {
+    $product = Product::find($id);
+    return $product;
+});

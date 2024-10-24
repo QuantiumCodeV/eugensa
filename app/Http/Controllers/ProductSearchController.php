@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Http\Controllers;
 
 use App\Models\Product;
@@ -27,8 +28,8 @@ class ProductSearchController extends Controller
         foreach ($request->except('q', 'page') as $key => $values) {
             $key = str_replace('_', ' ', $key); // Заменяем + на пробел
             $values = is_array($values) ? $values : [$values];
-            $productsQuery->whereHas('attributeValues', function($q) use ($key, $values) {
-                $q->whereHas('attribute', function($subQ) use ($key) {
+            $productsQuery->whereHas('attributeValues', function ($q) use ($key, $values) {
+                $q->whereHas('attribute', function ($subQ) use ($key) {
                     $subQ->where('name', $key);
                 })->whereIn('value', $values);
             });
@@ -54,34 +55,34 @@ class ProductSearchController extends Controller
             ->map(function ($group) {
                 return $group->pluck('value')->unique()->values()->all();
             });
-        
+
         $attributes = Attribute::whereIn('name', $productAttributes->keys())->get();
-       
+
         return view('results', compact('products', 'query', 'attributes', 'productAttributes'));
     }
 
     public function loadMore(Request $request)
-{
-    $perPage = 20;
-    $page = $request->input('page', 1);
-    $query = $request->input('q');
+    {
+        $perPage = 20;
+        $page = $request->input('page', 1);
+        $query = $request->input('q');
 
-    $productsQuery = Product::query();
+        $productsQuery = Product::query();
 
-    if (!empty($query)) {
-        $productsQuery->where('name', 'LIKE', '%' . $query . '%');
+        if (!empty($query)) {
+            $productsQuery->where('name', 'LIKE', '%' . $query . '%');
+        }
+
+        // Здесь можно добавить фильтрацию по атрибутам, если нужно
+
+        $products = $productsQuery->paginate($perPage, ['*'], 'page', $page);
+
+        return response()->json($products);
     }
-
-    // Здесь можно добавить фильтрацию по атрибутам, если нужно
-
-    $products = $productsQuery->paginate($perPage, ['*'], 'page', $page);
-
-    return response()->json($products);
-}
 
     public function product($id)
     {
-      
+
         return view('product');
     }
 }
