@@ -664,31 +664,39 @@
                   var prev = $('#prev');
                   var next = $('#next');
                   var itemWidth = $('.productSliderList').outerWidth();
+                  var itemCount = $('.productSliderList').length;
+                  var maxScroll = -(itemWidth * (itemCount - 5)); // 5 - количество видимых элементов
 
-                  function updatePrevVisibility() {
+                  function updateButtonsVisibility() {
                     var currentLeft = parseInt(slider.css('left'));
                     if (currentLeft < 0) {
                       prev.removeClass('disabled');
                     } else {
                       prev.addClass('disabled');
                     }
+                    if (currentLeft <= maxScroll) {
+                      next.addClass('disabled');
+                    } else {
+                      next.removeClass('disabled');
+                    }
                   }
 
                   prev.click(function(e){
                     e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
-                    slider.animate({left: currentLeft + itemWidth + 'px'}, 500, updatePrevVisibility);
+                    var newLeft = Math.min(currentLeft + itemWidth, 0);
+                    slider.animate({left: newLeft + 'px'}, 500, updateButtonsVisibility);
                   });
 
                   next.click(function(e){
                     e.preventDefault();
                     var currentLeft = parseInt(slider.css('left'));
-                    slider.animate({left: currentLeft - itemWidth + 'px'}, 500, updatePrevVisibility);
+                    var newLeft = Math.max(currentLeft - itemWidth, maxScroll);
+                    slider.animate({left: newLeft + 'px'}, 500, updateButtonsVisibility);
                   });
 
-                  // Инициализация видимости кнопки prev при загрузке страницы
-                  updatePrevVisibility();
-
+                  // Инициализация видимости кнопок при загрузке страницы
+                  updateButtonsVisibility();
                 </script>
               </div>
              
